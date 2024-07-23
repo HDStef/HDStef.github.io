@@ -2,6 +2,8 @@
 title: "Skills"
 headless: true
 weight: 40
+active: false
+
 ---
 
 &nbsp;
