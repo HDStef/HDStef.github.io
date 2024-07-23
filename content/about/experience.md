@@ -22,28 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: IT Business Analyst Intern
+    company: CRIF S.p.A
+    company_url: 'https://www.crif.it/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Bologna
+    date_start: '2024-01-01'
+    date_end: '2024-07-15'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Credit Bureau International Markets
+        Projects where I contributed: Credit Bureau of Ireland and eMergent (matching tool)
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        * Leveraged SQL to analyze and address inefficiencies in data processing for Credit Bureau’s bank providers, enhancing data accuracy and operational support
+        * Implemented a Python script to automate front-end testing, using the Selenium framework reducing
+        manual processing time by 70% securing reliable and efficient testing processes
+        * Improved API testing by utilizing Postman for automated testing and conducting regression tests and sanity checks, ensuring all activities functioned correctly
+        * Drafted Software Requirement Specifications documents using Confluence and managed project tasks and progress with Jira, ensuring all stakeholders had a clear understanding of project scope and goals
+
+  # - title: Professor of Semiconductor Physics
+  #   company: University X
+  #   company_url: ''
+  #   company_logo: org-x
+  #   location: California
+  #   date_start: '2016-01-01'
+  #   date_end: '2020-12-31'
+  #   description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '1'
