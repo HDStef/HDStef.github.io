@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Hi, there! I'm **Stefano**, currently pursuing a Master's degree in Data Science at [@UniBO](https://corsi.unibo.it/2cycle/StatisticalSciences/overview)
+👋 Hi, I'm **Stefano**, a statistician with a passion for Machine Learning and a fascination with the art of forecasting, always aiming to make an impact.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Check out my [resumé](/about/) and portfolio below 👨🏻‍💻
