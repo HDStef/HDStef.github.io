@@ -63,8 +63,6 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am Stefano Alberghini, a master's student in data science, passionate about unraveling the complexities of big data and transforming raw information into actionable insights. My enthusiasm extends to cybersecurity and finance, where I apply my data science skills to enhance security measures and analyze financial informations. Fascinated by forecasting, I continuously explore advanced models, honing my skills in programming languages like Python and R.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
