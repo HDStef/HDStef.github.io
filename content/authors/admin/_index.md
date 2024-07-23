@@ -63,6 +63,6 @@ social:
 #email: ""
 ---
 
-I am Stefano Alberghini, a master's student in data science, passionate about unraveling the complexities of big data and transforming raw information into actionable insights. My enthusiasm extends to cybersecurity and finance, where I apply my data science skills to enhance security measures and analyze financial informations. Fascinated by forecasting, I continuously explore advanced models, honing my skills in programming languages like Python and R.
+
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
