@@ -18,13 +18,12 @@ weight: 40
 }
 
 .button1 {padding: 10px 24px;}
+.button1 {border-radius: 8px;}
 </style>
 </head>
 <body>
 
-<h2>Button Padding</h2>
+<button class="button button1">Data Analysis</button>
+<button class="button button1">Automation and Testing</button>
+<button class="button button1">Project Management and Documentation</button>
 
-<p>Change the padding of a button with the padding property:</p>
-
-<button class="button button1">10px 24px</button>
-<button class="button button1">10px 24px</button>
