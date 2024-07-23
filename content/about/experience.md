@@ -32,7 +32,8 @@ experience:
     description: |2-
         Credit Bureau International Markets
         Projects where I contributed: Credit Bureau of Ireland and eMergent (matching tool)
-
+        
+        Main activites are:
         * Leveraged SQL to analyze and address inefficiencies in data processing for Credit Bureau’s bank providers, enhancing data accuracy and operational support
         * Implemented a Python script to automate front-end testing, using the Selenium framework reducing
         manual processing time by 70% securing reliable and efficient testing processes
