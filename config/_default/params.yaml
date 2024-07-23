@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  mode: light
-  color: blue
+  theme_day: light
+  theme_night: 
   font: minimal
   font_size: L
 
