@@ -46,7 +46,3 @@ weight: 40
         <button class="button button1">Automation and Testing</button>
         <button class="button button1">Project Management and Documentation</button>
 </div>
-
-<button class="button button1">Data Analysis</button>
-<button class="button button1">Automation and Testing</button>
-<button class="button button1">Project Management and Documentation</button>
