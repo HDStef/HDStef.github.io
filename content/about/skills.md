@@ -13,7 +13,7 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Skills'
+title: 'SkillsZZZ'
 subtitle:
 
 # Content within the widget
