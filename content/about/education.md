@@ -27,8 +27,8 @@ experience:
     company_url: 'https://corsi.unibo.it/2cycle/StatisticalSciences'
     company_logo: org-x
     location: Bologna
-    date_start: '2024-09'
-    date_end: '2026-07'
+    date_start: '2024-09-10'
+    date_end: '2026-07-18'
     description: ''
 
   - title: BSc in Statistics, Finance and Insurance
@@ -36,8 +36,8 @@ experience:
     company_url: 'https://corsi.unibo.it/laurea/StatisticaFinanzaAssicurazioni'
     company_logo: org-x
     location: Bologna
-    date_start: '2021-09'
-    date_end: '2024-07'
+    date_start: '2021-09-10'
+    date_end: '2024-07-01'
     description: |2-
         * Final Grade: 110/110
         * Thesis: "Forecasting financial frauds: An empirical approach between classification trees and neural networks"
