@@ -17,11 +17,8 @@ subtitle: ''
 
 ## Styled Button Example
 
-Here’s an example of a button styled using Tailwind CSS:
 
 <button class="inline-flex items-center rounded-md border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-primary text-primary-foreground shadow hover:bg-primary/80">
-  Click Me
+Click Me
 </button>
-
-
 ---
