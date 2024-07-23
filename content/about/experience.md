@@ -25,7 +25,7 @@ experience:
   - title: IT Business Analyst Intern
     company: CRIF S.p.A
     company_url: 'https://www.crif.it/'
-    company_logo: org-gc
+    company_logo: crif
     location: Bologna
     date_start: '2024-01-01'
     date_end: '2024-07-15'
