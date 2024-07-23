@@ -6,6 +6,7 @@ weight: 40
 
 &nbsp;
 &nbsp;
+&nbsp;
 <style>
         body {
             display: flex;
@@ -23,7 +24,7 @@ weight: 40
             text-align: center;
             text-decoration: none;
             display: inline-block;
-            font-size: 10px;
+            font-size: 13px;
             margin: 4px 2px;
             cursor: pointer;
         }
@@ -37,7 +38,14 @@ weight: 40
             display: flex;
             gap: 10px; /* Space between buttons */
         }
-</style>
+    </style>
+</head>
+
+<div class="button-container">
+        <button class="button button1">Data Analysis</button>
+        <button class="button button1">Automation and Testing</button>
+        <button class="button button1">Project Management and Documentation</button>
+</div>
 
 <button class="button button1">Data Analysis</button>
 <button class="button button1">Automation and Testing</button>
