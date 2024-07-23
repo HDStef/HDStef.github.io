@@ -25,7 +25,7 @@ experience:
   - title: MSc in Data Science
     company: Alma Mater Studiorum – Università di Bologna 
     company_url: 'https://corsi.unibo.it/2cycle/StatisticalSciences'
-    company_logo: org-x
+    company_logo: unibo
     location: Bologna
     date_start: '2024-09-10'
     date_end: '2026-07-18'
@@ -34,7 +34,7 @@ experience:
   - title: BSc in Statistics, Finance and Insurance
     company: Alma Mater Studiorum – Università di Bologna 
     company_url: 'https://corsi.unibo.it/laurea/StatisticaFinanzaAssicurazioni'
-    company_logo: org-x
+    company_logo: unibo
     location: Bologna
     date_start: '2021-09-10'
     date_end: '2024-07-01'
