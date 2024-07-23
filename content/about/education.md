@@ -24,24 +24,23 @@ date_format: Jan 2006
 experience:
   - title: MSc in Data Science
     company: Alma Mater Studiorum – Università di Bologna 
-    company_url: ''
+    company_url: 'https://corsi.unibo.it/2cycle/StatisticalSciences'
     company_logo: org-x
-    location: California
-    date_start: '2021-01-01'
-    date_end: '2022-01-01'
-    description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+    location: Bologna
+    date_start: '2024-09'
+    date_end: '2026-07'
+    description: ''
 
-  - title: BEng Electronic Engineering
-    company: University X
-    company_url: ''
+  - title: BSc in Statistics, Finance and Insurance
+    company: Alma Mater Studiorum – Università di Bologna 
+    company_url: 'https://corsi.unibo.it/laurea/StatisticaFinanzaAssicurazioni'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: My dissertation was on X
+    location: Bologna
+    date_start: '2021-09'
+    date_end: '2024-07'
+    description: |2-
+        * Final Grade: 110/110
+        * Thesis: "Forecasting financial frauds: An empirical approach between classification trees and neural networks"
 
 design:
   columns: '1'
